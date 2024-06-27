@@ -1,0 +1,26 @@
+Item ID,Name,Category,Price,Description
+101,Coke,drinks,4.5,
+102,Fanta,drinks,4.5,
+103,Powerade,drinks,4.5,
+104,Fresca,drinks,4.5,
+105,Barq's,drinks,4.5,
+201,Dogfish 60 minute,beer,9,
+202,Palo Santo Marron,beer,12,
+203,Bud light,beer,6,
+204,Stella,beer,6,
+205,Natural Light,beer,4,
+206,Hop Rising,beer,8,
+207,White Claw,beer,7,
+301,House Spring Rolls,appetizer,15,"Handmade rolls with gluten-free rice paper, stuffed weith chef's choice of ingredients served with house made Thai chili sauce"
+302,Lobster Deviled Duck Eggs,appetizer,15,"Four duck egg halfs made with fresh Maine lonster, goyza, scallions, shallot, dijon"
+303,Blackened Baby Scallops,appetizer,17,Pan seared blackened baby scallops served with poblano pico de gallo and avocado mousse 
+304,Fried Smoked Pork Wontons,appetizer,16,"Slow smoked pork shoulder mixed with onions, sesame oil, carrot, green onion served with sesame-ginger slaw and house made Thai Chili sause "
+401,Drunken Noodles,entree,18,"Extra large rice noodles wok'd with various asian greens, Thai basil, ginger with a wine broth"
+402,Eastern Salad,entree,17,"Mixed greens, cayenne cashews, sesame ginger vinegrette, pickled red onion, candied ginger, wasabi, daikon radish  "
+403,Western Salad,entree,17,"Mixed greens, candied walnuts, roasted shallot vinegrette, onion, strawberries, watermelon radish, cherry tomato"
+404,Bone-in Rib-eye,entree,32,"16 oz bone-in ribeye served with white truffle parmesean mashed potatoes, grilled asparagus, rosemary bordelaise "
+405,Wok'd Greens,entree,18,"Various asian greens wok'd with ginger, sesame oil, shallot with black vinegar xaioxing wine reduction"
+406,Smoked Prime Rib Sliders,entree,17,"Slow moked prime rib served on brioche slider rolls, southern style vinegar slaw, horseradish sourcream, au jus and house made pickles"
+501,Tofu,add-on,10,"Marinated in Thai chili paste, encrusted in cashew"
+502,Kalbi Steak,add-on,12,8 ounce steak marinated in Kalbi BBQ
+503,Scallops,add-on,16,Large scallops blackened  and sauteed with butter and lemon
